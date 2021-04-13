@@ -33,6 +33,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://epic-jennings-042022.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
