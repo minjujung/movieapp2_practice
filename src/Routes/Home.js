@@ -68,7 +68,7 @@ function Home() {
         <title>Home | MoTVGalaxy</title>
       </Helmet>
       <animated.div style={props}>
-        <Title>Welcom to MoTV Galaxy</Title>
+        <Title>Welcome to MoTV Galaxy</Title>
         <Image bgUrl={"/background.jpg"} />
         <Container>
           {topMovie?.length > 0 && (
