@@ -2,30 +2,24 @@
 
 Learning React and ES6 by building New version Movie App!!
 
-## Load
-
-- [] Little Animation Loader
-
-## Home
-
-- [] Background Image transition
-- [] Movie-top_Rated
-- [] TV-top_Rated
-- [] subroute:
+[Go to MoTVGalaxy](https://epic-jennings-042022.netlify.app/#/)
 
 ## Movie
 
-- [] popular
-- [] now_playing
-- [] upcoming
+- [x] popular
+- [x] now_playing
+- [x] upcoming
 
 ## TV Shows
 
-- [] popular
-- [] airing_today
-- [] latest
+- [x] popular
+- [x] now_playing
+- [x] upcoming
+
+## Detail
+
+- [x] teaser video
+- [x] go to collection page
 
 ## Search
 
-- [] Background Image transition
-- [] Click and Bounce Search Input Blank
